@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - HTML TITLE 123</title>
+        <link>https://stevesun5160.github.io/posts/</link>
+        <description>All Posts | HTML TITLE 123</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Thu, 16 Jun 2022 22:34:43 &#43;0800</lastBuildDate><atom:link href="https://stevesun5160.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://stevesun5160.github.io/first_post/</link>
+    <pubDate>Thu, 16 Jun 2022 22:34:43 &#43;0800</pubDate>
+    <author>Shao Kang Sun</author>
+    <guid>https://stevesun5160.github.io/first_post/</guid>
+    <description><![CDATA[123]]></description>
+</item>
+</channel>
+</rss>
